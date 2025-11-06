@@ -1,1002 +1,802 @@
 {
   "Healthy Living Assessment Panel": {
-    "price": 105,
-    "newPrice": 153.00,
+    "price": 153.0,
     "fieldName": "Check Box2"
   },
   "Enhanced Healthy Living Assessment Panel (Fasting)": {
-    "price": 195,
-    "newPrice": 233.00,
+    "price": 233.0,
     "fieldName": "Check Box3"
   },
   "Lipids Panel (Fasting)": {
-    "price": 15,
-    "newPrice": 20.00,
+    "price": 20.0,
     "fieldName": "Check Box4"
   },
   "Hematology Panel": {
-    "price": 67,
-    "newPrice": 76.00,
+    "price": 76.0,
     "fieldName": "Check Box5"
   },
   "Thyroid Panel (Fasting or Random)": {
-    "price": 103,
-    "newPrice": 45.00,
+    "price": 45.0,
     "fieldName": "Check Box6"
   },
   "Vitamin Panel": {
-    "price": 196,
-    "newPrice": 215.00,
+    "price": 215.0,
     "fieldName": "Check Box7"
   },
   "Mineral Panel": {
-    "price": 47,
-    "newPrice": 46.00,
+    "price": 46.0,
     "fieldName": "Check Box8"
   },
   "Nutrient Panel": {
-    "price": 230,
-    "newPrice": 250.00,
+    "price": 250.0,
     "fieldName": "Check Box9"
   },
   "Autoimmune Panel": {
-    "price": 96,
-    "newPrice": 92.00,
+    "price": 92.0,
     "fieldName": "Check Box10"
   },
-  "Autoimmune Panel (Pediatric ≤ 18 years)": {
-    "price": 96,
-    "newPrice": 92.00,
+  "Autoimmune Panel (Pediatric \u2264 18 years)": {
+    "price": 92.0,
     "fieldName": "Check Box11"
   },
   "Metabolic Panel (Fasting)": {
-    "price": 69,
-    "newPrice": 104.00,
+    "price": 104.0,
     "fieldName": "Check Box12"
   },
   "Inflammation Panel": {
-    "price": 40,
-    "newPrice": 52.00,
+    "price": 52.0,
     "fieldName": "Check Box13"
   },
   "Methylation Panel": {
-    "price": 78,
-    "newPrice": 81.00,
+    "price": 81.0,
     "fieldName": "Check Box14"
   },
   "Female Hormone Panel": {
-    "price": 102,
-    "newPrice": 114.00,
+    "price": 114.0,
     "fieldName": "Check Box15"
   },
   "Female Fertility Panel": {
-    "price": 184,
-    "newPrice": 205.00,
+    "price": 205.0,
     "fieldName": "Check Box16"
   },
-  "Men’s Health Panel": {
-    "price": 123,
-    "newPrice": 128.00,
+  "Men\u2019s Health Panel": {
+    "price": 128.0,
     "fieldName": "Check Box17"
   },
   "Fatigue Panel": {
-    "price": 77,
-    "newPrice": 79.00,
+    "price": 79.0,
     "fieldName": "Check Box18"
   },
   "Liver/Digestion PLUS Panel": {
-    "price": 26,
-    "newPrice": 41.00,
+    "price": 41.0,
     "fieldName": "Check Box19"
   },
   "17-OH-Progesterone": {
-    "price": 32.3,
-    "newPrice": 33.59,
+    "price": 33.59,
     "fieldName": "Check Box21"
   },
   "ABO/Rh grouping": {
-    "price": 12.35,
-    "newPrice": 12.84,
+    "price": 12.84,
     "fieldName": "Check Box22"
   },
   "Adrenocorticotropic Hormone (ACTH)": {
-    "price": 65.14,
-    "newPrice": 67.75,
+    "price": 67.75,
     "fieldName": "Check Box23"
   },
   "Albumin": {
-    "price": 3.99,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box24"
   },
   "Aldosterone (24 Hr Urine)": {
-    "price": 65.14,
-    "newPrice": 83.75,
+    "price": 83.75,
     "fieldName": "Check Box25"
   },
   "Aldosterone (Supine)": {
-    "price": 65.14,
-    "newPrice": 67.75,
+    "price": 67.75,
     "fieldName": "Check Box26"
   },
   "Aldosterone (Upright)": {
-    "price": 65.14,
-    "newPrice": 67.75,
+    "price": 67.75,
     "fieldName": "Check Box27"
   },
   "Alk Phos (Alkaline Phosphatase)": {
-    "price": 4.64,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box28"
   },
-  "Allergy Testing (IgE Specific – RAST, requires LifeLabs allergen req)": {
-    "price": 28.23,
-    "newPrice": 29.36,
+  "Allergy Testing (IgE Specific \u2013 RAST, requires LifeLabs allergen req)": {
+    "price": 29.36,
     "fieldName": "Check Box29"
   },
   "ALT (Alanine Aminotransferase)": {
-    "price": 4.27,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box30"
   },
-  "Amino Acids – Frac/Quant": {
-    "price": 133,
-    "newPrice": 133.00,
+  "Amino Acids \u2013 Frac/Quant": {
+    "price": 133.0,
     "fieldName": "Check Box31"
   },
   "Ammonia": {
     "price": 21.17,
-    "newPrice": 21.17,
     "fieldName": "Check Box32"
   },
   "Amylase, Serum": {
-    "price": 3.99,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box33"
   },
   "Androstenedione": {
-    "price": 38.95,
-    "newPrice": 40.51,
+    "price": 40.51,
     "fieldName": "Check Box34"
   },
   "Anti-Mullerian Hormone (AMH)": {
-    "price": 70.3,
-    "newPrice": 73.11,
+    "price": 73.11,
     "fieldName": "Check Box35"
   },
   "Anti-Nuclear Antibodies (ANA)": {
-    "price": 24.86,
-    "newPrice": 25.86,
+    "price": 25.86,
     "fieldName": "Check Box36"
   },
   "Anti-Parietal Cell Antibody": {
-    "price": 39.99,
-    "newPrice": 41.60,
+    "price": 41.6,
     "fieldName": "Check Box37"
   },
   "Anti-Reticulin Antibodies": {
-    "price": 42,
-    "newPrice": 43.68,
+    "price": 43.68,
     "fieldName": "Check Box38"
   },
   "Anti-thyroglobulin": {
-    "price": 11.4,
-    "newPrice": 11.86,
+    "price": 11.86,
     "fieldName": "Check Box39"
   },
   "Apolipoprotein A1": {
-    "price": 38,
-    "newPrice": 39.52,
+    "price": 39.52,
     "fieldName": "Check Box40"
   },
-  "Apolipoprotein B (UNINSURED – code 1977)": {
+  "Apolipoprotein B (UNINSURED \u2013 code 1977)": {
     "price": 36.75,
-    "newPrice": 36.75,
     "fieldName": "Check Box41"
   },
   "Arsenic, 24 Hr Urine": {
-    "price": 85.4,
-    "newPrice": 96.82,
+    "price": 96.82,
     "fieldName": "Check Box42"
   },
   "Arsenic, Random Urine": {
-    "price": 85.4,
-    "newPrice": 88.82,
+    "price": 88.82,
     "fieldName": "Check Box43"
   },
   "Ascorbic Acid / Vitamin C": {
-    "price": 33.75,
-    "newPrice": 35.10,
+    "price": 35.1,
     "fieldName": "Check Box44"
   },
   "AST (Aspartate Transaminase)": {
-    "price": 3.99,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box441"
   },
   "Beta Carotene": {
-    "price": 8.68,
-    "newPrice": 9.03,
+    "price": 9.03,
     "fieldName": "Check Box44123"
   },
   "Bilirubin, Direct": {
-    "price": 3.16,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box46"
   },
   "Bilirubin, Indirect": {
-    "price": 6.32,
-    "newPrice": 16.00,
+    "price": 16.0,
     "fieldName": "Check Box47"
   },
   "Bilirubin, Total": {
-    "price": 3.16,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box48"
   },
   "CA 125": {
-    "price": 36.1,
-    "newPrice": 37.54,
+    "price": 37.54,
     "fieldName": "Check Box49"
   },
   "CA 15-3": {
-    "price": 24.4,
-    "newPrice": 25.38,
+    "price": 25.38,
     "fieldName": "Check Box50"
   },
   "Cadmium, Random Urine": {
-    "price": 42,
-    "newPrice": 43.68,
+    "price": 43.68,
     "fieldName": "Check Box51"
   },
   "Calcium, 24 Hr Urine": {
-    "price": 3.99,
-    "newPrice": 16.00,
+    "price": 16.0,
     "fieldName": "Check Box52"
   },
   "Calcium, Ionized": {
-    "price": 10.45,
-    "newPrice": 10.87,
+    "price": 10.87,
     "fieldName": "Check Box53"
   },
   "Calcium, Random Urine": {
-    "price": 3.99,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box54"
   },
   "Calcium, Serum": {
-    "price": 3.99,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box55"
   },
   "Carbon Dioxide (CO2)": {
-    "price": 2.85,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box56"
   },
   "Carcinoembryonic Antigen (CEA)": {
-    "price": 42.7,
-    "newPrice": 44.41,
+    "price": 44.41,
     "fieldName": "Check Box57"
   },
   "CBC (includes differential)": {
-    "price": 10.03,
-    "newPrice": 10.43,
+    "price": 10.43,
     "fieldName": "Check Box58"
   },
   "Celiac Disease (code 35H)": {
-    "price": 136.2,
-    "newPrice": 141.65,
+    "price": 141.65,
     "fieldName": "Check Box59"
   },
   "Ceruloplasmin": {
-    "price": 6.51,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box60"
   },
   "Chloride, Serum": {
-    "price": 3.99,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box61"
   },
   "Cholinesterase, Plasma": {
     "price": 45.6,
-    "newPrice": 45.60,
     "fieldName": "Check Box62"
   },
   "Cholinesterase, RBC/Plasma": {
-    "price": 43.7,
-    "newPrice": 45.60,
+    "price": 45.6,
     "fieldName": "Check Box63"
   },
   "Cholinesterase, Serum": {
     "price": 45.6,
-    "newPrice": 45.60,
     "fieldName": "Check Box64"
   },
   "Complement C3": {
-    "price": 6.51,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box65"
   },
   "Complement C4": {
-    "price": 6.51,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box67"
   },
   "Copper, Serum": {
-    "price": 22.58,
-    "newPrice": 23.48,
+    "price": 23.48,
     "fieldName": "Check Box68"
   },
   "Copper, Random Urine": {
-    "price": 21,
-    "newPrice": 23.48,
+    "price": 23.48,
     "fieldName": "Check Box69"
   },
   "Cortisol, Random Serum": {
-    "price": 21,
-    "newPrice": 21.84,
+    "price": 21.84,
     "fieldName": "Check Box70"
   },
   "Cortisol, AM Serum": {
-    "price": 21,
-    "newPrice": 21.84,
+    "price": 21.84,
     "fieldName": "Check Box71"
   },
   "Cortisol, PM Serum": {
-    "price": 21,
-    "newPrice": 21.84,
+    "price": 21.84,
     "fieldName": "Check Box72"
   },
   "Cortisol, 24 Hr Urine": {
-    "price": 21,
-    "newPrice": 29.84,
+    "price": 29.84,
     "fieldName": "Check Box73"
   },
   "C-Peptide": {
-    "price": 31.35,
-    "newPrice": 32.60,
+    "price": 32.6,
     "fieldName": "Check Box75"
   },
   "C-Reactive Protein (CRP)": {
-    "price": 5.25,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box76"
   },
   "Creatine Kinase (CK)": {
-    "price": 3.16,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box77"
   },
   "Creatinine / eGFR": {
-    "price": 4.37,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box78"
   },
   "Creatinine Clearance, Serum & 24 Hr Urine": {
-    "price": 8.15,
-    "newPrice": 8.48,
+    "price": 8.48,
     "fieldName": "Check Box79"
   },
   "DHEAS": {
-    "price": 22.8,
-    "newPrice": 23.71,
+    "price": 23.71,
     "fieldName": "Check Box80"
   },
   "Digoxin": {
-    "price": 15.2,
-    "newPrice": 15.81,
+    "price": 15.81,
     "fieldName": "Check Box81"
   },
   "Dihydrotestosterone (DHT)": {
     "price": 68.25,
-    "newPrice": 68.25,
     "fieldName": "Check Box82"
   },
   "Endomysial Antibody": {
-    "price": 60.8,
-    "newPrice": 63.23,
+    "price": 63.23,
     "fieldName": "Check Box83"
   },
   "ESR / Sedimentation Rate": {
-    "price": 5.21,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box84"
   },
   "Estradiol / Estrogen": {
-    "price": 29.45,
-    "newPrice": 30.63,
+    "price": 30.63,
     "fieldName": "Check Box85"
   },
   "Estriol": {
-    "price": 47.31,
-    "newPrice": 49.20,
+    "price": 49.2,
     "fieldName": "Check Box86"
   },
   "Estrone": {
-    "price": 38.95,
-    "newPrice": 40.51,
+    "price": 40.51,
     "fieldName": "Check Box87"
   },
   "Fatty Acids, Free": {
-    "price": 15.77,
-    "newPrice": 16.40,
+    "price": 16.4,
     "fieldName": "Check Box88"
   },
-  "Ferritin – enter as ordered, no clinical diagnosis required": {
-    "price": 14,
-    "newPrice": 14.56,
+  "Ferritin \u2013 enter as ordered, no clinical diagnosis required": {
+    "price": 14.56,
     "fieldName": "Check Box89"
   },
   "Fibrinogen, Quantitative": {
-    "price": 15.2,
-    "newPrice": 15.81,
+    "price": 15.81,
     "fieldName": "Check Box90"
   },
   "Folate, RBC": {
-    "price": 22.08,
-    "newPrice": 22.96,
+    "price": 22.96,
     "fieldName": "Check Box901"
   },
   "Folate, Serum": {
-    "price": 8.85,
-    "newPrice": 9.20,
+    "price": 9.2,
     "fieldName": "Check Box9011512"
   },
   "Free T3": {
-    "price": 16.15,
-    "newPrice": 16.80,
+    "price": 16.8,
     "fieldName": "Check Box45"
   },
   "FSH": {
-    "price": 15.62,
-    "newPrice": 16.24,
+    "price": 16.24,
     "fieldName": "Check Box92"
   },
   "G6PD (requires a CBC)": {
-    "price": 34.2,
-    "newPrice": 46.00,
+    "price": 46.0,
     "fieldName": "Check Box93"
   },
   "Galectin 3": {
     "price": 89.25,
-    "newPrice": 89.25,
     "fieldName": "Check Box94"
   },
   "GGT": {
-    "price": 4.64,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box95"
   },
   "Gliadin Antibodies (IgG)": {
-    "price": 95,
-    "newPrice": 98.80,
+    "price": 98.8,
     "fieldName": "Check Box96"
   },
   "Glucose, Fasting": {
-    "price": 4.37,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box97"
   },
   "Glucose, Random": {
-    "price": 4.37,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box98"
   },
   "Glucose Tolerance 2hr (75g load)": {
-    "price": 16.15,
-    "newPrice": 16.80,
+    "price": 16.8,
     "fieldName": "Check Box99"
   },
   "Hemoglobin A1c (HbA1c)": {
-    "price": 13.23,
-    "newPrice": 13.76,
+    "price": 13.76,
     "fieldName": "Check Box100"
   },
   "HLA B27": {
-    "price": 96.15,
-    "newPrice": 99.99,
+    "price": 99.99,
     "fieldName": "Check Box101"
   },
   "Homocysteine": {
-    "price": 70,
-    "newPrice": 72.80,
+    "price": 72.8,
     "fieldName": "Check Box102"
   },
   "IgA": {
     "price": 28.57,
-    "newPrice": 28.57,
     "fieldName": "Check Box103"
   },
   "IgD": {
     "price": 28.57,
-    "newPrice": 28.57,
     "fieldName": "Check Box104"
   },
   "IgE": {
-    "price": 15.2,
-    "newPrice": 15.81,
+    "price": 15.81,
     "fieldName": "Check Box105"
   },
   "IgG": {
     "price": 28.57,
-    "newPrice": 28.57,
     "fieldName": "Check Box106"
   },
   "IgG Fractionation": {
-    "price": 203,
-    "newPrice": 211.12,
+    "price": 211.12,
     "fieldName": "Check Box107"
   },
   "IgM": {
     "price": 28.57,
-    "newPrice": 28.57,
     "fieldName": "Check Box108"
   },
   "Insulin Glucose Challenge, 2hr": {
-    "price": 25.27,
-    "newPrice": 29.74,
+    "price": 29.74,
     "fieldName": "Check Box109"
   },
   "Insulin Glucose Challenge, 3hr": {
-    "price": 25.27,
-    "newPrice": 29.74,
+    "price": 29.74,
     "fieldName": "Check Box110"
   },
   "Insulin Glucose Challenge, 4hr": {
-    "price": 25.27,
-    "newPrice": 29.74,
+    "price": 29.74,
     "fieldName": "Check Box111"
   },
   "Insulin-Like Growth Factor 1 (IGF-1)": {
-    "price": 90.25,
-    "newPrice": 93.86,
+    "price": 93.86,
     "fieldName": "Check Box112"
   },
   "Intrinsic Factor Blocking Antibody": {
-    "price": 31.54,
-    "newPrice": 32.80,
+    "price": 32.8,
     "fieldName": "Check Box113"
   },
   "Insulin, Fasting": {
-    "price": 20.9,
-    "newPrice": 21.74,
+    "price": 21.74,
     "fieldName": "Check Box114"
   },
   "Insulin, Random": {
-    "price": 20.9,
-    "newPrice": 21.74,
+    "price": 21.74,
     "fieldName": "Check Box115"
   },
   "Iodine, 24 Hr Urine": {
-    "price": 209.55,
-    "newPrice": 225.93,
+    "price": 225.93,
     "fieldName": "Check Box116"
   },
-  "Iron, Total (TIBC) – enter as ordered, no clinical diagnosis required": {
-    "price": 17.1,
-    "newPrice": 17.78,
+  "Iron, Total (TIBC) \u2013 enter as ordered, no clinical diagnosis required": {
+    "price": 17.78,
     "fieldName": "Check Box117"
   },
   "Islet Cell Cytoplasmic Autoantibody": {
-    "price": 31.54,
-    "newPrice": 32.80,
+    "price": 32.8,
     "fieldName": "Check Box118"
   },
   "Lactic Acid": {
-    "price": 14.25,
-    "newPrice": 14.82,
+    "price": 14.82,
     "fieldName": "Check Box119"
   },
   "LDH": {
-    "price": 5.43,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box120"
   },
   "Lead, Serum": {
-    "price": 20.9,
-    "newPrice": 21.74,
+    "price": 21.74,
     "fieldName": "Check Box121"
   },
   "Leptin": {
-    "price": 84,
-    "newPrice": 87.36,
+    "price": 87.36,
     "fieldName": "Check Box123"
   },
   "LH (Lutropin Hormone)": {
-    "price": 14,
-    "newPrice": 14.56,
+    "price": 14.56,
     "fieldName": "Check Box124"
   },
   "Lipase": {
-    "price": 11.4,
-    "newPrice": 11.86,
+    "price": 11.86,
     "fieldName": "Check Box125"
   },
   "Magnesium, RBC": {
     "price": 44.1,
-    "newPrice": 44.10,
     "fieldName": "Check Box126"
   },
   "Magnesium, Serum": {
-    "price": 3.99,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box127"
   },
   "Manganese, Blood": {
-    "price": 85.4,
-    "newPrice": 88.82,
+    "price": 88.82,
     "fieldName": "Check Box128"
   },
   "Manganese, Plasma": {
-    "price": 79.3,
-    "newPrice": 82.47,
+    "price": 82.47,
     "fieldName": "Check Box129"
   },
   "Mercury, Blood": {
-    "price": 18.92,
-    "newPrice": 19.68,
+    "price": 19.68,
     "fieldName": "Check Box130"
   },
-  "Microalbumin (Albumin/Creatinine Ratio Urine – code 54M)": {
-    "price": 8.36,
-    "newPrice": 16.00,
+  "Microalbumin (Albumin/Creatinine Ratio Urine \u2013 code 54M)": {
+    "price": 16.0,
     "fieldName": "Check Box131"
   },
   "Mononucleosis Screen": {
-    "price": 11.02,
-    "newPrice": 11.46,
+    "price": 11.46,
     "fieldName": "Check Box132"
   },
-  "Natriuretic Peptide – Brain BNP": {
+  "Natriuretic Peptide \u2013 Brain BNP": {
     "price": 91.5,
-    "newPrice": 91.50,
     "fieldName": "Check Box133"
   },
   "Naturopath Thyroxine Free T4 (code 6925)": {
-    "price": 21.85,
-    "newPrice": 22.72,
+    "price": 22.72,
     "fieldName": "Check Box134"
   },
   "Omega-3 Fatty Acid": {
-    "price": 91.5,
-    "newPrice": 95.16,
+    "price": 95.16,
     "fieldName": "Check Box135"
   },
   "Parathyroid Hormone (PTH)": {
-    "price": 62.7,
-    "newPrice": 65.21,
+    "price": 65.21,
     "fieldName": "Check Box136"
   },
   "PCBs (Polychlorinated Biphenyls)": {
-    "price": 207.4,
-    "newPrice": 215.70,
+    "price": 215.7,
     "fieldName": "Check Box137"
   },
   "Phosphate, Serum": {
-    "price": 3.16,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box138"
   },
   "Porphyrins, 24 Hr Urine": {
-    "price": 61.09,
-    "newPrice": 71.53,
+    "price": 71.53,
     "fieldName": "Check Box139"
   },
   "Potassium, Serum": {
-    "price": 4.64,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box140"
   },
   "Progesterone": {
-    "price": 16.15,
-    "newPrice": 16.80,
+    "price": 16.8,
     "fieldName": "Check Box141"
   },
   "Prolactin": {
-    "price": 17.1,
-    "newPrice": 17.78,
+    "price": 17.78,
     "fieldName": "Check Box142"
   },
-  "Prostate Specific Antigen (PSA – UNINSURED)": {
-    "price": 35.15,
-    "newPrice": 36.56,
+  "Prostate Specific Antigen (PSA \u2013 UNINSURED)": {
+    "price": 36.56,
     "fieldName": "Check Box143"
   },
   "PSA Ratio, Screening": {
-    "price": 57,
-    "newPrice": 59.28,
+    "price": 59.28,
     "fieldName": "Check Box144"
   },
   "Protein, Total": {
-    "price": 2.85,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box1451"
   },
   "Protein Electrophoresis": {
-    "price": 19,
-    "newPrice": 19.76,
+    "price": 19.76,
     "fieldName": "Check Box1431"
   },
   "PT/INR": {
-    "price": 6.65,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box1441"
   },
   "Reticulocyte Count (requires CBC)": {
-    "price": 7.06,
-    "newPrice": 18.43,
+    "price": 18.43,
     "fieldName": "Check Box1453"
   },
   "Reverse T3": {
-    "price": 46,
-    "newPrice": 47.84,
+    "price": 47.84,
     "fieldName": "Check Box91"
   },
   "Rheumatoid Factor, Serum": {
-    "price": 7.81,
-    "newPrice": 8.12,
+    "price": 8.12,
     "fieldName": "Check Box146"
   },
   "Selenium, RBC": {
-    "price": 81.64,
-    "newPrice": 84.91,
+    "price": 84.91,
     "fieldName": "Check Box147"
   },
   "Selenium, Serum": {
-    "price": 58.9,
-    "newPrice": 61.26,
+    "price": 61.26,
     "fieldName": "Check Box148"
   },
   "Sex Hormone Binding Globulin (SHBG)": {
-    "price": 48.8,
-    "newPrice": 50.75,
+    "price": 50.75,
     "fieldName": "Check Box149"
   },
   "Sodium, Serum": {
-    "price": 4.64,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box150"
   },
   "Testosterone, Bioavailable": {
-    "price": 60.8,
-    "newPrice": 63.23,
+    "price": 63.23,
     "fieldName": "Check Box151"
   },
   "Testosterone, Free": {
-    "price": 29.45,
-    "newPrice": 30.63,
+    "price": 30.63,
     "fieldName": "Check Box152"
   },
   "Testosterone, Total": {
-    "price": 17.3,
-    "newPrice": 17.99,
+    "price": 17.99,
     "fieldName": "Check Box153"
   },
   "Thallium, Blood": {
-    "price": 101,
-    "newPrice": 101.00,
+    "price": 101.0,
     "fieldName": "Check Box154"
   },
   "Thallium, Random Urine": {
-    "price": 3.99,
-    "newPrice": 87.36,
+    "price": 87.36,
     "fieldName": "Check Box155"
   },
   "Thyroglobulin (auto orders Anti-Thyroglobulin)": {
-    "price": 20.9,
-    "newPrice": 33.60,
+    "price": 33.6,
     "fieldName": "Check Box156"
   },
   "Thyrotropin Receptor AB-TRAB / TSI (Thyroid Stimulating Immunoglobulin)": {
-    "price": 81.7,
-    "newPrice": 84.97,
+    "price": 84.97,
     "fieldName": "Check Box157"
   },
   "TPO/Thyroid Peroxidase Antibody": {
-    "price": 11.4,
-    "newPrice": 11.86,
+    "price": 11.86,
     "fieldName": "Check Box158"
   },
   "Transferrin": {
-    "price": 9.45,
-    "newPrice": 9.83,
+    "price": 9.83,
     "fieldName": "Check Box159"
   },
   "Transglutaminase IgA (code 41K)": {
-    "price": 63,
-    "newPrice": 65.52,
+    "price": 65.52,
     "fieldName": "Check Box160"
   },
   "TSH": {
-    "price": 15,
-    "newPrice": 15.60,
+    "price": 15.6,
     "fieldName": "Check Box162"
   },
   "Urea / BUN, Serum": {
-    "price": 3.16,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box163"
   },
   "Uric Acid / Urate, Random Urine": {
-    "price": 3.99,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box164"
   },
   "Uric Acid / Urate, Serum": {
-    "price": 3.99,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box165"
   },
   "Urinalysis, Chemical": {
-    "price": 5.86,
-    "newPrice": 8.00,
+    "price": 8.0,
     "fieldName": "Check Box166"
   },
   "Urine Culture": {
-    "price": 12.61,
-    "newPrice": 13.11,
+    "price": 13.11,
     "fieldName": "Check Box167"
   },
   "Urine, Microscopic (auto orders Urinalysis, Chemical)": {
-    "price": 4,
-    "newPrice": 16.00,
+    "price": 16.0,
     "fieldName": "Check Box168"
   },
   "Vitamin A": {
-    "price": 42.17,
-    "newPrice": 43.86,
+    "price": 43.86,
     "fieldName": "Check Box169"
   },
   "Vitamin B1, Plasma": {
-    "price": 84,
-    "newPrice": 87.36,
+    "price": 87.36,
     "fieldName": "Check Box170"
   },
   "Vitamin B2": {
     "price": 102.86,
-    "newPrice": 102.86,
     "fieldName": "Check Box171"
   },
   "Vitamin B6": {
-    "price": 71.25,
-    "newPrice": 74.10,
+    "price": 74.1,
     "fieldName": "Check Box172"
   },
   "Vitamin B12": {
-    "price": 18.95,
-    "newPrice": 19.71,
+    "price": 19.71,
     "fieldName": "Check Box173"
   },
   "Vitamin D 1,25": {
     "price": 96.05,
-    "newPrice": 96.05,
     "fieldName": "Check Box174"
   },
   "Vitamin D 25, uninsured": {
-    "price": 39,
-    "newPrice": 40.56,
+    "price": 40.56,
     "fieldName": "Check Box175"
   },
   "Vitamin E": {
-    "price": 56.09,
-    "newPrice": 58.33,
+    "price": 58.33,
     "fieldName": "Check Box176"
   },
   "Zinc, RBC": {
-    "price": 61,
-    "newPrice": 63.44,
+    "price": 63.44,
     "fieldName": "Check Box177"
   },
   "Zinc, Serum": {
     "price": 14.7,
-    "newPrice": 14.70,
     "fieldName": "Check Box178"
   },
   "Urea Breath Test for H.pylori (appt required)": {
-    "price": 99.75,
-    "newPrice": 118.75,
+    "price": 118.75,
     "fieldName": "Check Box179"
   },
   "Calprotectin, Stool": {
-    "price": 125.4,
-    "newPrice": 130.42,
+    "price": 130.42,
     "fieldName": "Check Box181"
   },
   "Elastase": {
-    "price": 152.95,
-    "newPrice": 159.07,
+    "price": 159.07,
     "fieldName": "Check Box182"
   },
   "H. pylori, Stool Antigen": {
-    "price": 189,
-    "newPrice": 118.75,
+    "price": 118.75,
     "fieldName": "Check Box183"
   },
-  "Ova & Parasites – Microscopy": {
-    "price": 61.31,
-    "newPrice": 63.76,
+  "Ova & Parasites \u2013 Microscopy": {
+    "price": 63.76,
     "fieldName": "Check Box184"
   },
-  "Ova & Parasites – PCR": {
-    "price": 61.31,
-    "newPrice": 63.76,
+  "Ova & Parasites \u2013 PCR": {
+    "price": 63.76,
     "fieldName": "Check Box185"
   },
   "Throat Swab": {
-    "price": 15.77,
-    "newPrice": 16.40,
+    "price": 16.4,
     "fieldName": "Check Box187"
   },
   "Sputum Culture": {
-    "price": 15.97,
-    "newPrice": 16.61,
+    "price": 16.61,
     "fieldName": "Check Box188"
   },
   "Micro Fungal Culture (KOH nail & hair)": {
-    "price": 31.66,
-    "newPrice": 32.93,
+    "price": 32.93,
     "fieldName": "Check Box189"
   },
   "Nasal Swab": {
-    "price": 15.77,
-    "newPrice": 16.40,
+    "price": 16.4,
     "fieldName": "Check Box190"
   },
-  "PAP (Monolayer Cell) (UNINSURED – code 94R) – cytology requisition required": {
-    "price": 45.19,
-    "newPrice": 47.00,
+  "PAP (Monolayer Cell) (UNINSURED \u2013 code 94R) \u2013 cytology requisition required": {
+    "price": 47.0,
     "fieldName": "Check Box191"
   },
   "Semen Analysis - Infertility (appt required)": {
-    "price": 53.55,
-    "newPrice": 55.69,
+    "price": 55.69,
     "fieldName": "Check Box192"
   },
   "Semen Analysis - Post Vasectomy": {
-    "price": 21.9,
-    "newPrice": 22.52,
+    "price": 22.52,
     "fieldName": "Check Box193"
   },
-  "Other/Misc Swabs – Source:": {
-    "price": 15.77,
-    "newPrice": 16.40,
+  "Other/Misc Swabs \u2013 Source:": {
+    "price": 16.4,
     "fieldName": "Check Box1911"
   },
-  "Trichomonas Swab – cervical (endocervical) or vaginal": {
-    "price": 9.15,
-    "newPrice": 9.52,
+  "Trichomonas Swab \u2013 cervical (endocervical) or vaginal": {
+    "price": 9.52,
     "fieldName": "Check Box1923"
   },
-  "Vaginal Swab (Gram stain for BV & Yeast – code 1883)": {
-    "price": 13.3,
-    "newPrice": 13.83,
+  "Vaginal Swab (Gram stain for BV & Yeast \u2013 code 1883)": {
+    "price": 13.83,
     "fieldName": "Check Box1934"
   },
   "LifeLabs FST Enhanced+ (FENH)": {
     "price": 350,
-    "newPrice": 350,
     "fieldName": "LifeLabs FST Enhanced"
   },
   "LifeLabs FST Vegetarian+ (FVEG)": {
     "price": 315,
-    "newPrice": 315,
     "fieldName": "LifeLabs FST Vegetarian"
   },
   "LifeLabs FST Basic+ (FBAS)": {
     "price": 285,
-    "newPrice": 285,
     "fieldName": "LifeLabs FST Basic"
   },
   "Finger Capillary Collection (SST Microtainer)": {
     "price": 0,
-    "newPrice": 0,
     "fieldName": "SST Microtainer"
   },
   "Venipuncture Collection (SST Vacutainer)": {
     "price": 0,
-    "newPrice": 0,
     "fieldName": "SST Vacutainer"
   }
 }
